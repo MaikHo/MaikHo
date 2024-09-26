@@ -6,12 +6,8 @@
  
 ### Languages and Tools:
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-    <img width="55%" align="right" alt="MaikHo github stats" src="https://github-readme-stats.vercel.app/api?username=MaikHo&show_icons=true&theme=dracula" />
-  </a>
+
+<p>  
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -42,9 +38,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <br />
    
    <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-   <!-- 
+    
    <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
--->
+
    <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
    <img width="5%" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg">
    
@@ -52,3 +48,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    
    <br />
 </p>
+
+### Stats:
+
+<img width="55%" align="right" alt="MaikHo github stats" src="https://github-readme-stats.vercel.app/api?username=MaikHo&show_icons=true&theme=dracula" />
