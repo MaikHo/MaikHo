@@ -7,9 +7,10 @@ to leave a positive, lasting impression.
 ## 💻 Technologies
 Here are some technologies I enjoy working with:
 <p> 
- <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
+ 
  <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt=".NET">
  <img width="10%" src="https://www.vectorlogo.zone/logos/avaloniauinet/avaloniauinet-ar21.svg" alt="AvaloniaUI">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker">
  <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite"> 
 </p>
@@ -17,12 +18,15 @@ Here are some technologies I enjoy working with:
 ## 💻 Best of OS
 Here are my preferred operating systems:
 <p> 
+ 
  <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux">
  <img width="5%" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macOS">
+ 
 </p>
 
+
 ## 🚀 Projects
-- [ConApp](https://github.com/sorry/RK_privat): The software I develop for RK Rose + Krieger. It is designed to maximize user-friendliness and efficiency.
+- [ConApp](https://github.com/sorry/RK_privat): The software I develop for RK Rose + Krieger. Designed for user-friendliness and efficiency, this software is intended to automate many things in industry.
 
 ## 📊 My Skills
 | Language | Proficiency Level |
