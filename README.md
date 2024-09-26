@@ -69,7 +69,7 @@
 </a>
 
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MaikHo&theme=react-dark)]
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaikHo&theme=react-dark" />
 
 
 
