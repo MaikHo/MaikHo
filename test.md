@@ -45,11 +45,10 @@ Ich bin ein leidenschaftlicher Softwareentwickler mit einer Vorliebe für kreati
 - Buch: "Clean Code" von Robert C. Martin
 - Serie: "Silicon Valley"
 
-## 📊 GitHub stats
+## 📈 GitHub-Statistiken
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikHo&show_icons=true&theme=dracula&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-## 📈 GitHub-Statistiken
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaikHo&show_icons=true&theme=radical&count_private=true)
+
 
