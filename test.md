@@ -1,4 +1,4 @@
-# Hi there, I'm [Dein Name] 👋
+# Hi there, I'm MaikHo 👋
 
 Ich bin ein leidenschaftlicher Softwareentwickler mit einer Vorliebe für kreative Lösungen.
 
@@ -6,8 +6,9 @@ Ich bin ein leidenschaftlicher Softwareentwickler mit einer Vorliebe für kreati
 <p> 
  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
  <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/avaloniauinet/avaloniauinet-ar21.svg">
  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
- <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> 
 </p>
 
 ## 💻 best of OS
@@ -31,9 +32,6 @@ Ich bin ein leidenschaftlicher Softwareentwickler mit einer Vorliebe für kreati
 | <img width="20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> | ⭐⭐⭐           |
 
 
-## ❓ FAQ
-**Frage:** Was ist dein Lieblingsprojekt?  
-**Antwort:** Mein Lieblingsprojekt ist XYZ, weil es mir ermöglicht hat, ...  
 
 ## 🎯 Meine Ziele
 - Kurzfristig: Docker mehr benutzen
