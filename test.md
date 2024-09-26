@@ -19,12 +19,12 @@ Ich bin ein leidenschaftlicher Softwareentwickler mit einer Vorliebe für kreati
 ## 📊 Meine Skills
 | Sprache | Erfahrungsgrad |
 |--------------|----------------|
-| <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">       | ⭐⭐⭐⭐⭐         |
-| <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">   | ⭐⭐⭐⭐          |
-| <img width="10%" src="https://simpleicons.org/icons/cplusplus.svg">       | ⭐⭐⭐           |
-| <img width="10%" src="https://simpleicons.org/icons/c.svg">       | ⭐⭐⭐           |
-| <img width="10%" src="https://simpleicons.org/icons/kotlin.svg">       | ⭐⭐⭐           |
-| <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">       | ⭐⭐⭐           |
+| <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"> | ⭐⭐⭐⭐         |
+| <img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> | ⭐⭐⭐⭐          |
+| <img width="15%" src="https://simpleicons.org/icons/cplusplus.svg"> | ⭐⭐⭐           |
+| <img width="15%" src="https://simpleicons.org/icons/c.svg"> | ⭐⭐⭐           |
+| <img width="15%" src="https://simpleicons.org/icons/kotlin.svg"> | ⭐⭐⭐           |
+| <img width="20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> | ⭐⭐⭐           |
 
 
 ## ❓ FAQ
