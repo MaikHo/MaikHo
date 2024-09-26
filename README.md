@@ -66,7 +66,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikHo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaikHo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
