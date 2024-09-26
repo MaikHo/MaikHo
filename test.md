@@ -9,13 +9,15 @@ Ich bin ein leidenschaftlicher Softwareentwickler mit einer Vorliebe für kreati
  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
  <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
 </p>
+
 ## 💻 best of OS
 <p> 
  <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg">
 </p>
+
 ## 🚀 Projekte
-- [ConApp](https://github.com/link-zu-projekt1): Die Software die ich für RK Rose + Krieger entwickle.
+- [ConApp](https://github.com/sorry/RK_privat): Die Software die ich für RK Rose + Krieger entwickle.
 
 
 ## 📊 Meine Skills
