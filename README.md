@@ -63,12 +63,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mysteryx93&repo=Modern.Net-Tutorial&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikHo)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaikHo)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaikHo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaikHo&repo=convoychat" />
+</a>
 
 
 
