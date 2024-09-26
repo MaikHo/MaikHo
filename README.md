@@ -60,7 +60,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AvaloniaUI&repo=Avalonia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mysteryx93&show_owner&repo=Modern.Net-Tutorial)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mysteryx93&repo=Modern.Net-Tutorial)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
