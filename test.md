@@ -20,7 +20,7 @@ Here are my preferred operating systems:
 <p> 
  
  <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux">
- <img width="5%" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macOS">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macOS">
  
 </p>
 
