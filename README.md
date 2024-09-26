@@ -52,3 +52,5 @@
 ### Stats:
 
 <img width="55%" align="right" alt="MaikHo github stats" src="https://github-readme-stats.vercel.app/api?username=MaikHo&show_icons=true&theme=dracula" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikHo)](https://github.com/anuraghazra/github-readme-stats)
