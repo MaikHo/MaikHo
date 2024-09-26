@@ -54,13 +54,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikHo&show_icons=true&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amwx&repo=FluentAvalonia)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amwx&repo=FluentAvalonia&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AvaloniaUI&repo=Avalonia)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AvaloniaUI&repo=Avalonia&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mysteryx93&repo=Modern.Net-Tutorial\&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mysteryx93&repo=Modern.Net-Tutorial&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
