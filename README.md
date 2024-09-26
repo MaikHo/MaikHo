@@ -49,18 +49,10 @@
    <br />
 </p>
 
-### Stats:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikHo&show_icons=true&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mysteryx93&repo=Modern.Net-Tutorial&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -70,10 +62,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amwx&repo=FluentAvalonia&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaikHo&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mysteryx93&repo=Modern.Net-Tutorial&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaikHo&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true" />
 </a>
 
 
