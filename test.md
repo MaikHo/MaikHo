@@ -1,56 +1,52 @@
+
 # Hi there, I'm MaikHo 👋
 
-Ich bin ein leidenschaftlicher Softwareentwickler mit einer Vorliebe für kreative Lösungen.
+I am a passionate software developer with a hand for creative solutions and innovative approaches. My goal is to create one using my software 
+to leave a positive, lasting impression.
 
-## 💻 Technologien
+## 💻 Technologies
+Here are some technologies I enjoy working with:
 <p> 
- <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
- <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
- <img width="10%" src="https://www.vectorlogo.zone/logos/avaloniauinet/avaloniauinet-ar21.svg">
- <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
- <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> 
+ <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt=".NET">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/avaloniauinet/avaloniauinet-ar21.svg" alt="AvaloniaUI">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite"> 
 </p>
 
-## 💻 best of OS
+## 💻 Best of OS
+Here are my preferred operating systems:
 <p> 
- <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
- <img width="5%" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux">
+ <img width="5%" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macOS">
 </p>
 
-## 🚀 Projekte
-- [ConApp](https://github.com/sorry/RK_privat): Die Software die ich für RK Rose + Krieger entwickle.
+## 🚀 Projects
+- [ConApp](https://github.com/sorry/RK_privat): The software I develop for RK Rose + Krieger. It is designed to maximize user-friendliness and efficiency.
 
-
-## 📊 Meine Skills
-| Sprache | Erfahrungsgrad |
+## 📊 My Skills
+| Language | Proficiency Level |
 |--------------|----------------|
-| <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"> | ⭐⭐⭐⭐         |
-| <img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> | ⭐⭐⭐⭐          |
-| <img width="15%" src="https://simpleicons.org/icons/cplusplus.svg"> | ⭐⭐⭐           |
-| <img width="15%" src="https://simpleicons.org/icons/c.svg"> | ⭐⭐⭐           |
-| <img width="15%" src="https://simpleicons.org/icons/kotlin.svg"> | ⭐⭐⭐           |
-| <img width="20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> | ⭐⭐⭐           |
+| <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#"> | ⭐⭐⭐⭐         |
+| <img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"> | ⭐⭐⭐⭐          |
+| <img width="15%" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++"> | ⭐⭐⭐           |
+| <img width="15%" src="https://simpleicons.org/icons/c.svg" alt="C"> | ⭐⭐⭐           |
+| <img width="15%" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin"> | ⭐⭐⭐           |
+| <img width="20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP"> | ⭐⭐⭐           |
 
+## 🎯 My Goals
+- **Short-term:** Use Docker more intensively and deepen my understanding.
+- **Long-term:** Make active contributions to the AvaloniaUI community.
 
+## 💬 Favorite Quote
+"The only way to do great work is to love what you do." – **Steve Jobs**
 
-## 🎯 Meine Ziele
-- Kurzfristig: Docker mehr benutzen
-- Langfristig: zu AvaloniaUI beitragen
+## ✨ Inspiring Quotes
+"The best way to predict the future is to create it." – **Peter Drucker**
 
-## 💬 Lieblingszitat
-"Der einzige Weg, großartige Arbeit zu leisten, ist, die Arbeit zu lieben." – Steve Jobs
+## 🎬 Inspirations
+- **Book:** "Clean Code" by Robert C. Martin
+- **Show:** "Silicon Valley"
 
-## ✨ Inspirierende Zitate
-"Der beste Weg, die Zukunft vorherzusagen, ist, sie zu erschaffen." – Peter Drucker
-
-## 🎬 Inspirationen
-- Buch: "Clean Code" von Robert C. Martin
-- Serie: "Silicon Valley"
-
-## 📈 GitHub-Statistiken
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikHo&show_icons=true&theme=dracula&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
+## 📈 GitHub Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikHo&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
