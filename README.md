@@ -69,7 +69,7 @@
 </a>
 
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaikHo&theme=react-dark" />
+
 
 
 
