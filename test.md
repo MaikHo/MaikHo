@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+
 # Hi there, I'm MaikHo 👋
 
 I am a passionate software developer with a hand for creative solutions and innovative approaches. My goal is to create one using my software 
